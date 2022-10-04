@@ -1,0 +1,64 @@
+[
+    {
+        "id": "aa1122331",
+        "catagory": "men",
+        "name": "dumble",
+        "stock": 20,
+        "price": 400,
+        "quantity": 0,
+        "age": "20-25",
+        "img": "https://image.shutterstock.com/image-vector/biceps-dumble-rod-vector-260nw-2167249257.jpg"
+   },
+   {
+    "id": "aa1122332",
+    "catagory": "men",
+    "name": "Trademill",
+    "stock": 20,
+    "price": 420,
+    "quantity": 0,
+    "age": "20-25",
+    "img": "https://m.media-amazon.com/images/I/611xujq7khL._AC_SY450_.jpg"
+},
+{
+    "id": "aa1122333",
+    "catagory": "men",
+    "name": "PGK traders",
+    "stock": 20,
+    "price": 440,
+    "quantity": 0,
+    "age": "20-25",
+    "img": "https://rukminim1.flixcart.com/image/416/416/kfpq5jk0/ab-exerciser/b/e/w/self-suction-sit-up-workout-assistant-abdominal-exercise-original-imafw47nh89nyuew.jpeg?q=70"
+},
+{
+    "id": "aa1122334",
+    "catagory": "men",
+    "name": "wrist roller",
+    "stock": 20,
+    "price": 460,
+    "quantity": 0,
+    "age": "20-25",
+    "img": "https://rukminim1.flixcart.com/image/416/416/kasjjww0/fitness-grip/n/p/r/forearm-wrist-roller-for-arm-exercises-wtoner-3-vaquita-original-imafsa3nzvdrmvwy.jpeg?q=70"
+},
+{
+    "id": "aa1122335",
+    "catagory": "men",
+    "name": "Hand grip",
+    "stock": 20,
+    "price": 460,
+    "quantity": 0,
+    "age": "20-25",
+    "img": "https://image.shutterstock.com/image-photo/wrist-forearm-muscle-exercise-spring-260nw-390286135.jpg"
+},
+{
+    "id": "aa1122336",
+    "catagory": "men",
+    "name": "Tummy trimmer",
+    "stock": 20,
+    "price": 460,
+    "quantity": 0,
+    "age": "20-25",
+    "img": "https://5.imimg.com/data5/XF/BX/MY-5308319/tummy-trimmer-1000x1000.jpeg"
+}
+
+
+]
